@@ -48,20 +48,19 @@ może scratch jest narzędziem dla Ciebie.
 4. Podzielcie się na grupy
 5. Odpalcie mrozo.pl/hs/mikrowarsztaty
 5. wybierzcie tematy do opracowania i popracujcie [20 min ]
-Głośnik - dwa przyciski - dwadźwięki
+Głośnik - dwa przyciski - dwa dźwięki
 Wyświetlanie grafiki - wciśnij przycisk aby zmienić
 Radio - gdy na jednym micro bicie wciśniesz przycisk, na drugim pojawi się serduszko.
 Akcelerometr - na wyświetlaczu pokarz kierunek (L,P,G,D) w zależności od tego, w którym kierunku porusza się micro bit
-Sterowanie serwomotorem -wciśnij przycisk żeby przesunąć o x stopni.
+Gra w snake
 [bardziej zaawansowani] komunikacja z komputerem - modół serial
 6. Krótka prezentacja - pokażcie co zrobiliście i jak. [20 min]
 7. Praca nad własnymi projektami
 
 
 Czego potrzeba:
-1. Ściągawka python
+1. Ściągawka python - ok
 2. instrukcja do głośnika
-3. Instrukcja do radio
-4. Instrukcja wyświetlacza
-5. Instrukcja akcelerometru
-6. Instrukcja do serwomotoru
+3. Instrukcja do radio - ok
+4. Instrukcja wyświetlacza - ok
+5. Instrukcja akcelerometru -
