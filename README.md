@@ -1,25 +1,19 @@
-# FunWithMicrobit
+# Mikrowarsztaty
 > This work is licensed under the Creative Commons Attribution-ShareAlike 4.0 International License.
 > To view a copy of this license, visit https://creativecommons.org/licenses/by-sa/4.0/
 
-## What is FunWithMicrobit ?
-FunWithMicrobit is a 6 hours workshop made by kids for the kids :-)
+## Czym jest ten warsztat?
+Jest to warsztat programowania urządzeń micro:bit w języku mikropython dla początkujących oraz dusz artystycznych. Całość jest zaplanowana na 4 godziny z przerwą. Materiały są zmodyfikowaną wersją instrukcji warsztatowej FunWithMicrobit od MicrobitPolska dostępną pod adresem https://github.com/MicrobitPolska/FunWithMicrobit .
 
-## About and contributing
-This tutorial is maintained by [Microbit:Polska](https://www.microbitpolska.org/). 
-If you find any mistakes or want to update the tutorial please [follow the contributing guidelines](https://github.com/MicrobitPolska/FunWithMicrobit/blob/master/README.md).
+## O repozytorium oraz sposoback kontrybucji
+Ta wersja instukcji jest utrzymywana przez [Hacker:Space Trójmiasto](https://hs3.pl/).
+Osoby chcące zgłosić poprawki do instrukcji lub je rozszeżyć, proszone są o forkowanie repozytorium oraz zgłaszanie zmian za pomocą Pull reqiest.
 
-## Contributing
-Fork the project, create a PR.
-It's that easy :)
+## Kontrybutorzy
+Mróz Krzysztof, vel. Mroz
 
-## Contributors
-[Christian Barra](https://github.com/barrachri)
+## Podziękowania
+Materiał jest modyfikacją instrukcji [FunWithMicrobit](https://github.com/MicrobitPolska/FunWithMicrobit) od fundacji [Microbit:Polska](https://microbitpolska.org)
 
-[Karolina Baran](https://github.com/karolinabaran)
-
-## Credits
-
-Thanks to the [DjangoGirls](https://djangogirls.org/), we got a lot of inspiration from their repository.
-
-A lot of this material is taken from [microbit-micropython.readthedocs.io](https://microbit-micropython.readthedocs.io)
+## Dla uczestników warsztatu
+Proszę o przejście na adres (http://mrozo.pl/hs/mikrowarsztat).
