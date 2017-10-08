@@ -45,7 +45,7 @@ Przykład?
 ```python
 print("Hello ! I am Python")
 ```
-Ta linijka kodu wyświetli nam na ekranie: Hello ! I am Python  
+Ta linijka kodu wyświetli nam na ekranie: Hello ! I am Python
 Nic skomplikowanego.
 
 ## Co to jest Python?
