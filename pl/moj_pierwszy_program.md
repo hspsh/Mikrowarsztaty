@@ -74,7 +74,7 @@ Komenda ,,while" jest komunikatem, który brzmi dokładnie tak: rób coś, dopó
 ```python
 from microbit import display
 
-while 1>0:
+while True:
   display.show("Hello Poland!")
 ```
 
@@ -83,7 +83,7 @@ Teraz spróbujmy w takim kodem:
 ```python
 from microbit import display
 
-while 1<0:
+while True:
   display.show("Hello Poland!")
 ```
 
