@@ -1,6 +1,8 @@
 TODO
 przygotować laptopy - 2 szt
 kupić przewody micro usb - 9szt
+Przynieść pendrive z mu ide(win/linux/macos)
+
 
 Mikro:warsztaty programowania micro:bit w języku micropython
 
