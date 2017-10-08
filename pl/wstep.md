@@ -73,3 +73,10 @@ Ciekawostka: W polsce można zdawaćmaturę z informatyki z wykorzystaniem języ
 ## Ćwiczenie 2: zaprogramujcie mnie w języku programowania wysokiego poziomu
 ## Ćwiczenie 3: przepiszmy to na python.
 
+## A co jeśli nie spodoba mi się programowanie w pythonie?
+
+Jeśli chodzi o programowanie micro:bit, to masz dwie główne alternatywy:
+
+1. Niskopoziomowe programowanie w c++ z wykorzystaniem bibliotek arduino - rozwiązanie dobre, jeśli chcesz wycisnąć z micro:bita wszystko co możliwe [ więcej ] (http://help.blynk.cc/how-to-connect-different-hardware-with-blynk/arduino/bbc-microbit-arduino-ide)
+2. Programowanie graficzne - niektóre osoby, szczególnie dusze bardziej artystyczne preferują graficzny edytor scratch, który umożliwa dosyć szybkie tworzenie programów składających się z gotowych puzli. Jeśli Twoim celem jest stworzenie ciekawej zabawki, albo dodanie bajerów do stroju, to rozwiązanie może być dla Ciebie [ więcej ](http://microbit.org/code/)
+
