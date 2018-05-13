@@ -159,24 +159,3 @@ Przydatne biblioteki
 ----------------
 1. time : zawiera funkcje takie jak `time` - zwraca aktualny czas w sekundach od "unix epoch" oraz `sleep`, która usypia program na zadaną liczbę sekund
 
-Dekoratory
-----------------
-Na potrzeby tych laboratoriów nie wyjaśnimy czym są dekoratory. W uproszczeniu przyjmijmy że jest to forma dołączania do funkcji pewnej funkcjonalności.
-
-```python
-
-@<dekorator>( <argumenty dekoratora> )
-def <nazwa funkcji>( <argumenty funkcji> ):
-  <instrukcje>
-```
-
-Czyli np. (z dokumentacji Flask):
-
-```python
-@app.route('/')
-def hello_world():
-    return 'Hello, World!'
-```
-
-
-
