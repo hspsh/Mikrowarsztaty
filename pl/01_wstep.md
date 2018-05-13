@@ -16,11 +16,11 @@ od nich:
 
 * gnizdo usb - służy do zasilania, komunikacji z micro:bitem oraz wgrywania nowych programów.
 * przycisk reset - gdy nie wiesz co się dzieje - ten ziomek Ci pomorze
-* "battery" złącze baterii - nasz micro:bit może być zasilany bateryjnie, więc można go wykorzystywać w zdalniesterowanych zabawkach, jako dodatek do ubrań i do czego tylko dusza zapragnie
+* "battery" złącze baterii - nasz micro:bit może być zasilany bateryjnie, więc można go wykorzystywać w zdalnie sterowanych zabawkach, jako dodatek do ubrań i do czego tylko dusza zapragnie
 * "ble antenna" - czyli antena do komunikacji bezprzewodowej - oznacza to, że microbity mogą się ze sobą komunikować, można więc wykorzystać je do automatyki domowej, zdalnego sterowania czy do tworzenia gier wieloosobowych.
 * "processor" - czyli główny mózg, który wykonuje nasze programy i wszystkie obliczenia. To w nim mieści się elektronika odpowiedzialna z łączność bezprzewodową, pamięć, na której zapisujemy nasze programy oraz wiele innych ciekawych rzeczy.
 * "compass, accelerometer" - czyli urządzenia odpowiedzialne za odpowiednio - wyczuwanie ruchu/przyśpieszeń oraz ich kierunków, kompas, no chyba wiesz co to jest, no nie?
-* "pins" - zestapinów używanych do sterowania zewnętrznymi układami - procesor wykorzystuje je do wysyłania sygnałów oraz odbierania informacji z zewnątrz.
+* "pins" - zestaw pinów używanych do sterowania zewnętrznymi układami - procesor wykorzystuje je do wysyłania sygnałów oraz odbierania informacji z zewnątrz.
 * Przyciski - dwa przyciski, A i B służące do interakcji z naszymy dziełami.
 * Macierz led - czyli 25 diud led tworzących miniaturowy ekran, na którym możemy wyświetlać obrazki, animacje, teksty itd. albo poprostu nim mrugać.
 
@@ -65,13 +65,42 @@ while True:
   sleep(1)
 ```
 
-Język ten jest bardzo popularny wśród naukowców oraz w edukacji. Ostatnio zdobywa też popularność wśród programistów (bo są leniwi). Powstają w nich sztuczne inteligencje, aplikacje internetowe, narzędzia programistyczne, skrypty do administracji systemu itd.
+Język ten jest bardzo popularny wśród naukowców oraz w edukacji. Ostatnio zdobywa też popularność wśród programistów (bo są leniwi). Jest wykorzystywany do tworzenia sztucznych inteligencji, aplikacji internetowych, narzędzi programistycznych, skryptów do administracji systemu itd.
 
-Ciekawostka: W polsce można zdawaćmaturę z informatyki z wykorzystaniem języka python.
+Ciekawostka: W polsce można zdawać maturę z informatyki z wykorzystaniem języka python.
+
+# Ćwiczenia wprowadzające
+
+Aby zrozumieć czym są języki programowania przeprowadzimy krótkie ćwiczenie, w którym ja będę udawać robota, a wy programistów, którzy chcą aby ten robot podniósł przedmiot z pobliskiego stołu. Zrobimy to dwukrotnie - raz udając, że piszemy w języku programowania niskiego poziomu, a drugi raz weźmiemy na warsztat wyimaginowany język programowania wysokiego poziomu.
 
 ## Ćwiczenie 1: zaprogramujcie mnie w języku programowania niskiego poziomu
+
+Dostępne polecenia:
+
+ * wysuń lewą nogę do przodu z prędkością `X`
+ * wysuń prawą nogę do przodu z prędkością `X`
+ * przesuń ciężar na prawą nogę z prędkością `X`
+ * przesuń ciężar na lewą nogę z prędkością `X`
+ * obróć się o `X` stopni
+ * sprawdź warunek `X`. Jeśli tak, wykonaj czynność `Y`, w przeciwnym wypadku wykonaj `Z`
+ * zmierz odległość do przedmiotu `X`
+ * czy `X` jest mniejsze od `Y`
+ * wyciągnij chwytak
+ * przesuń chwytak w lewo/prawo/do przodu/do tyłu
+ * zmierz odległość chwytaka od obiektu `X`
+ * chwyć
+ 
 ## Ćwiczenie 2: zaprogramujcie mnie w języku programowania wysokiego poziomu
-## Ćwiczenie 3: przepiszmy to na python.
+
+ * zrób krok do przodu
+ * wyszukaj przedmiotu `X`
+ * obróć się o `X` stopni
+ * zrób krok do przodu
+ * zmierz odległość do obiektu `X`
+ * sprawdź warunek `X`. Jeśli tak, wykonaj czynność `Y`, w przeciwnym wypadku wykonaj `Z`
+ * zmierz odległość do przedmiotu `X`
+ * czy `X` jest mniejsze od `Y`
+ * chwyć przedmiot `X`
 
 ## A co jeśli nie spodoba mi się programowanie w pythonie?
 
