@@ -22,7 +22,7 @@ Pomyślmy o 2 pierwszych linijkach. Pierwsza linijka zaczyna się znakiem # i oz
 
 Kolejna linijka jest już dużo ważniejsza. Prosimy w niej Pythona, żeby zimportował nam moduł __display__ z modułu microbit.
 
-Czym jest moduł? Pomyślmy o nim jako pewnym konkretnym fragmencie kodu Pythona, napisanym już wcześniej przez twórców języka Python, który możemy ściągnąć (zaimportować), i który pomaga nam w naszej dalszej pracy. Czyli ktoś kiedyś napisał pewne komendy w Pythonie, którymi możemy teraz posługiwać się by nasza zabawa z programowaniem była łatwiejsza.
+Czym jest moduł? Jest to paczka zawierająca różne małe programy i funkcje przygotowane przez kogoś, które możemy zaimportować do naszego programu i wykorzystać jak swoje (no prawie - wszystko zależy od licencji na której udostępniany jest dany modół). W uproszczeniu można powiedzieć, że moduł to poprostu przygotowany przez kogoś kod pythona, który możemy zaimportować i wykorzystać w swoim kodzie. 
 
 Teraz możemy poprosić Micro:bita, by wyświetlił nam poniższy tekst:
 
@@ -83,7 +83,7 @@ Teraz spróbujmy w takim kodem:
 ```python
 from microbit import display
 
-while True:
+while False:
   display.show("Hello Poland!")
 ```
 
